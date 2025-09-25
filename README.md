@@ -14,5 +14,3 @@ All work here is performed in safe lab environments (PortSwigger / Juice Shop / 
 - Configured Burp Suite and practiced intercepting requests
 - Installed and tested: Nmap, ffuf, subfinder, amass, httpx
 - Basic recon script: `scripts/recon_pipeline.sh`
-
-### Repo structure (current)
